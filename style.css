@@ -1,0 +1,25 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f9;
+  color: #333;
+  text-align: center;
+  padding: 20px;
+}
+
+header h1 {
+  color: #00bfff;
+  font-size: 36px;
+}
+
+#countdown {
+  margin-top: 50px;
+  font-size: 24px;
+  font-weight: bold;
+  color: #e74c3c;
+}
+
+footer {
+  margin-top: 50px;
+  font-size: 14px;
+  color: #888;
+}
